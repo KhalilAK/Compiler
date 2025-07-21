@@ -1,7 +1,3 @@
-//Name: Ameer Khalil
-//Assignment: PL/0 Parser and Code Generator - HW4
-//Date: 7/19/2025
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
