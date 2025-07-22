@@ -17,13 +17,16 @@ Execute
 ```Change "input.txt" to the correct name of the input file```
 
 
-Example Input:
-
+```Example Input
 const a = 5;
 var x, y;
 begin
   x := a + 2;
-  if x = 7 then y := x * 2 else y := x + 3 fi;
+  if x = 7 then
+    y := x * 2
+  else
+    y := x + 3
+  fi;
   write y;
 end.
 
